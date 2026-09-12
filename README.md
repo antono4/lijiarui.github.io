@@ -1,1 +1,26 @@
-Last updated: 2026-09-12 08:30:44 WIB
+# lijiarui.github.io
+
+
+
+## 📋 Overview
+
+This repository contains **1296 files** and is built with the following technologies:
+
+HTML
+
+## 🚀 Quick Start
+
+## ✨ Features
+
+- 📝 Auto-generated documentation
+
+## 🛠️ Technologies
+
+HTML
+
+## 📄 License
+
+MIT License
+
+---
+*Last updated: 2026-09-12 09:05:05 WIB*
